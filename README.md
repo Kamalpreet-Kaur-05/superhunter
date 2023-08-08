@@ -1,5 +1,6 @@
 # superhunter
 **DEMO:-**
+https://kamalpreet-kaur-05.github.io/superhunter/
 
 **Problem Statement:-**
 Create a superhero hunter app. Use ONLY vanilla javascript, no libraries or frameworks are allowed for Javascript (you can use any CSS framework like Bootstrap).
